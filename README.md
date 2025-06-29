@@ -13,7 +13,7 @@ The project currently supports the following operations:
 - Delete a repository (Be careful!)
 
 ## Future Improvements
-- As shown in the [~~documentation~~ (DEAD LINK)](http://github-api.kohsuke.org/), is a bad idea to authenticate a user with its password directly, so a future version of the project might try with the Personal Access Token.
+- As shown in the [~~documentation~~ (DEAD LINK)](http://github-api.kohsuke.org/), it's a bad idea to authenticate a user with its password directly, so a future version of the project might try with the Personal Access Token.
 - To show the file directory of the project.
 - Implement the rest of the GitHub functions.
 
